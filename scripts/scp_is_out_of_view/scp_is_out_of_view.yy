@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scp_is_out_of_view",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scp_is_out_of_view",
+  "parent":{
+    "name":"utils",
+    "path":"folders/scripts/utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
