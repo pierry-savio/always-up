@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_jump_button",
+  "%Name":"obj_joystick",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_jump_button",
+  "name":"obj_joystick",
   "overriddenProperties":[],
   "parent":{
     "name":"ui",
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_jump_button",
-    "path":"sprites/spr_jump_button/spr_jump_button.yy",
+    "name":"spr_joystick",
+    "path":"sprites/spr_joystick/spr_joystick.yy",
   },
   "spriteMaskId":null,
   "visible":true,

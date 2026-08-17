@@ -1,6 +1,4 @@
-// If can walk is true...
 
-show_debug_message(obj_player.y_spd);
 
 if (obj_player.can_walk) {
 		

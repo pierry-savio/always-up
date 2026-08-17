@@ -13,9 +13,9 @@
     {"name":"inst_7698077C","path":"rooms/game/game.yy",},
     {"name":"inst_37209D62","path":"rooms/game/game.yy",},
     {"name":"inst_7391FEF0","path":"rooms/game/game.yy",},
-    {"name":"inst_3CD2081C","path":"rooms/game/game.yy",},
-    {"name":"inst_1834A4D0","path":"rooms/game/game.yy",},
     {"name":"inst_3F8481A1","path":"rooms/game/game.yy",},
+    {"name":"inst_501217AE","path":"rooms/game/game.yy",},
+    {"name":"inst_68314FA","path":"rooms/game/game.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -26,9 +26,9 @@
         {"$GMRInstance":"v4","%Name":"inst_7391FEF0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7391FEF0","objectId":{"name":"obj_global_ui","path":"objects/obj_global_ui/obj_global_ui.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":272.0,"y":-87.0,},
       ],"layers":[],"name":"Controllers","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"UI","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_3CD2081C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3CD2081C","objectId":{"name":"obj_left_button","path":"objects/obj_left_button/obj_left_button.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":114.5,"y":902.0,},
-        {"$GMRInstance":"v4","%Name":"inst_1834A4D0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1834A4D0","objectId":{"name":"obj_right_button","path":"objects/obj_right_button/obj_right_button.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":235.5,"y":902.0,},
         {"$GMRInstance":"v4","%Name":"inst_3F8481A1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3F8481A1","objectId":{"name":"obj_jump_button","path":"objects/obj_jump_button/obj_jump_button.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":845.5,"y":902.0,},
+        {"$GMRInstance":"v4","%Name":"inst_501217AE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_501217AE","objectId":{"name":"obj_joystick_container","path":"objects/obj_joystick_container/obj_joystick_container.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":182.0,"y":902.0,},
+        {"$GMRInstance":"v4","%Name":"inst_68314FA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_68314FA","objectId":{"name":"obj_joystick","path":"objects/obj_joystick/obj_joystick.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":182.0,"y":902.0,},
       ],"layers":[],"name":"UI","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Power_Ups","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Power_Ups","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Player","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
