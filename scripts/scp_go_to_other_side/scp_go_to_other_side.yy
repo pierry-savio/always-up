@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scp_go_to_other_side",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scp_go_to_other_side",
+  "parent":{
+    "name":"room",
+    "path":"folders/scripts/room.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

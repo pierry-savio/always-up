@@ -41,7 +41,8 @@ function scp_player_walk(){
 			keyboard_check(global.walk_left_key)    ||
 			keyboard_check(global.walk_left_key2)   ||
 			keyboard_check(global.walk_right_key)   ||
-			keyboard_check(global.walk_right_key_2)
+			keyboard_check(global.walk_right_key_2) ||
+			mouse_check_button(mb_left)
 		)
 	)
 	{

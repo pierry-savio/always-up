@@ -13,3 +13,5 @@ scp_smooth_movement();
 
 //Animations
 scp_player_animation();
+
+scp_go_to_other_side();

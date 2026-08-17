@@ -11,5 +11,7 @@ if (object_exists(obj_player)){
 	}
 }
 
+scp_go_to_other_side();
+
 y += y_spd;
 x += x_spd;
