@@ -19,7 +19,7 @@ Não existe fim — só existe o seu recorde. A cada tentativa, o jogo registra 
 ## Controles
 
 ### 💻 Computador
-- Use as **setas do teclado** (ou **A/D**) para mover o personagem para os lados.
+- Use as **setas do teclado** (ou **A/D**) para mover o personagem para os lados e **W** para pular.
 - O personagem pula automaticamente ao tocar nas nuvens.
 
 ### 📱 Celular
